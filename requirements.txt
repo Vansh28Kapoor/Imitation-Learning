@@ -1,0 +1,10 @@
+gymnasium==0.29.1
+gymnasium[box2d]
+matplotlib==3.7.1
+torch>=2.0.1
+numpy
+tqdm
+pillow
+diffusers
+# optional: (if you want to use wandb for loss logging)
+# wandb
